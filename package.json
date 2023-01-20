@@ -1,0 +1,16 @@
+{
+  "name": "pajlada's-tmi-meltdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kararty/dank-twitch-irc": "^5.0.0",
+    "dotenv": "^16.0.3"
+  }
+}

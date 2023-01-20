@@ -1,0 +1,16 @@
+{
+	"apps": [
+		{
+			"name": "lobisco25",
+			"script": "src/lobisco25.js"
+		},
+		{
+			"name": "bottisco2",
+			"script": "src/bottisco2.js"
+		},
+		{
+			"name": "bottisco",
+			"script": "src/bottisco.js"
+		}
+	]
+}
