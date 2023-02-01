@@ -12,12 +12,6 @@ const incidentbot = new ChatClient(config.links.incidentbot)
 
 bottisco.join(config.channel)
 
-bottisco2.join(config.channel)
-
-lobisco25.join(config.channel)
-
-incidentbot.join(config.channel)
-
 bottisco.privmsg(config.dev, `helping tmi meltdown for ${config.channel} with ${Object.keys(config.links).length} accounts`)
 
 bottisco.on("PRIVMSG", async (msg) => {
