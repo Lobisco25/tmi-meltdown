@@ -22,7 +22,7 @@ bottisco.on("PRIVMSG", async (msg) => {
         bottisco.privmsg(channel, "pajaGIGA pajbot")
         bottisco2.privmsg(channel, "FeelsNotSureLady pajbot")
         lobisco25.privmsg(channel, "PoroSad pls don't man pajbot")
-        incidentbot.privmsg(channel, "/me pajaMad pajbot")
+        incidentbot.privmsg(channel, "/me pajaMAD pajbot")
     }
 
     else if (msg.messageText === "pajaS 🚨 ALERT" && msg.senderUsername == config.start) {
